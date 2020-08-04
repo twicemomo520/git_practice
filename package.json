@@ -1,0 +1,24 @@
+{
+  "name": "new_git_dir",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twicemomo520/git_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twicemomo520/git_practice/issues"
+  },
+  "homepage": "https://github.com/twicemomo520/git_practice#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
